@@ -12,7 +12,7 @@ require (
 	github.com/go-chi/chi/v5 v5.0.10
 	github.com/google/cel-go v0.15.1
 	github.com/google/uuid v1.3.1
-	github.com/klauspost/compress v1.17.0
+	github.com/klauspost/compress v1.17.2
 	github.com/klauspost/cpuid/v2 v2.2.5
 	github.com/mastercactapus/proxyprotocol v0.0.4
 	github.com/mholt/acmez v1.2.0
